@@ -80,3 +80,8 @@ body{
     top: 140px;
     position: absolute;
 }
+
+.botao{
+    margin-left: 40px;
+    margin-top: 50px;
+}
